@@ -27,7 +27,6 @@ conda activate phi3
 python3 sanity_test.py
 ```
 
-Then, execute the scripts `scripts\open_llama_sanity_test1.py` and `scripts\open_llama_sanity_test2.py`.
 
 # Running-with-ui
 
